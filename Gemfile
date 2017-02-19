@@ -20,6 +20,7 @@ gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'paperclip'
 gem 'cocoon'
+gem 'devise'
 
 group :development, :test do
   gem 'byebug', platform: :mri
